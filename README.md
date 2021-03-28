@@ -12,15 +12,19 @@ This is a algorithm that finds smallest prime number from input numbers. You can
 When prime numbers are equal, algorithm compares between input numbers.
 
 First, user enter an input that indicates how many number will be given into the algorithm. The algorithm needs double array because it must keeps input numbers and their prime numbers so that user gave size of array and each index have 2 number(first index input, other prime number)(Example: first index is {24,2})
+
 ![1](https://user-images.githubusercontent.com/67058617/112761891-0ac7c580-9006-11eb-9b33-8984b4a6be4f.PNG)
 
 Then, user give numbers into the algorithm for finding and sorting. Input numbers are given into the array.
+
 ![2](https://user-images.githubusercontent.com/67058617/112761892-0dc2b600-9006-11eb-82a8-c206b3da7310.PNG)
 
 After giving numbers, the algorithm finds prime numbers of each numbers and puts prime numebrs into the second index.
+
 ![3](https://user-images.githubusercontent.com/67058617/112761895-10251000-9006-11eb-82a7-87d2e5e32686.PNG)
 
 Final part is comparing and sorting. The algorithm compares two prime numbers and puts smaller number in front of higher number. If prime numbers are equal, the algorithm compares numbers which are in first index and sorts these numbers.
+
 ![4](https://user-images.githubusercontent.com/67058617/112761899-13200080-9006-11eb-9585-3c693fd2ae22.PNG)
 
 <br />
