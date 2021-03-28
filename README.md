@@ -5,7 +5,7 @@ My name is Okan and I'm a student of Computer Engineer. You can find me on [![Li
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-Green?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudio-3DDC84?style=flat&logo=vs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 
 # Find Smallest Prime Number
 This is a algorithm that finds smallest prime number from input numbers. You can give numbers into the algorithm and algorithm takes to pieces numbers to smallest prime number.
